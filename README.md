@@ -1,17 +1,24 @@
-# CMPUT 301 : Lab 3 Participation Exercise
+\# CMPUT 301: Lab 2 Participation Exercise
 
-## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
 
-## References and Resources
+\## Student Details
 
-List any resources used here, or simply put `N/A` if not applicable.
+\- \*\*Full Name:\*\* `Abdou Murad`
 
-## Verbal Collaboration
+\- \*\*CCID:\*\* `aymurad`
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+
+
+\## References and Resources
+
+NA
+
+
+
+\## Verbal Collaboration
+
+NA. 
+
+
+
